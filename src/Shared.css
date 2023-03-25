@@ -1,0 +1,14 @@
+:root {
+  /* Typography */
+  --poppins: "Poppins", sans-serif;
+  --roboto: "Roboto", sans-serif;
+  --roboto-mano: "Roboto Mono", monospace;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+* {
+  margin-bottom: 2rem;
+}
